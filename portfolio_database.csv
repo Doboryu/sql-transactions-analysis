@@ -1,0 +1,5 @@
+"transaction_id","customer_id","transaction_date","transaction_type","amount"
+"1","101","2025-01-05","Deposit","5000.00"
+"2","101","2025-01-10","Withdrawal","2000.00"
+"3","102","2025-01-07","Deposit","10000.00"
+"4","103","2025-01-08","Payment","1500.00"
