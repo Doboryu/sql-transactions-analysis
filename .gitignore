@@ -1,0 +1,10 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore XAMPP/IDE configs
+*.log
+*.tmp
+
+# Ignore environment files (never share passwords!)
+.env
